@@ -1,0 +1,4 @@
+
+** (gedit:24516): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+
+(gedit:7478): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
